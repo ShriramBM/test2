@@ -2,6 +2,7 @@
 
 int main(){
 	printf("Hello World");
-	printf("CMRIT")
+	printf("CMRIT");
+	printf("Welcome");
 	return 0;
 }
